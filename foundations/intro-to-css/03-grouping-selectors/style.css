@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.first {
+    background-color: #0b0b0bf8;
+    color: #fdfdfb;
+}
+
+.second {
+    background-color: #cacf66f8;
+}
+
+.share-font {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
